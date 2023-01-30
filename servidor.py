@@ -5,7 +5,7 @@ import json
 
 # """
 #   Projeto #1 - Sockets
-#   Grupo:  Wedson Cândido
+#   Grupo:  Wedson Cândido da Silva
 #           Yagor Kalenieves
 # """
 
